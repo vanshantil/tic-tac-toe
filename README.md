@@ -10,7 +10,13 @@ The application supports both **Player vs Player** and **Player vs Computer** ga
 
 ## 🖼️ Preview
 
-![Tic Tac Toe Game Preview](public/screenshots/tic-tac-toe-home.png)
+### Home Screen
+
+![Tic Tac Toe Home Screen](public/screenshots/tic-tac-toe-home.png)
+
+### AI Gameplay — Hard Mode
+
+![Tic Tac Toe AI Gameplay](public/screenshots/tic-tac-toe-gameplay.png)
 
 ## ✨ Features
 
