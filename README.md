@@ -4,6 +4,10 @@ A modern, responsive **Tic Tac Toe game** built with **React, TypeScript, Tailwi
 
 The application supports both **Player vs Player** and **Player vs Computer** gameplay. The computer opponent includes three difficulty levels, with Hard mode using the **Minimax algorithm** to make optimal moves.
 
+## 🌐 Live Demo
+
+🎮 **Play the game:** https://vanshantil.github.io/tic-tac-toe/
+
 ## 🖼️ Preview
 
 ![Tic Tac Toe Game Preview](public/screenshots/tic-tac-toe-home.png)
